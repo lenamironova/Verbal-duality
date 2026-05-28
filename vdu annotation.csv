@@ -1,0 +1,434 @@
+id lang,language,id marker,domain,value,marker,base,cumulative,strategy,id lex distr,lex distr,productivity,oblig,functions,target,additional,comment,page
+1,Kunama,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1/2/3 person,,341
+1,Kunama,2,pronominal,2,vowel redupliaction / gemination,=plural,non-cumulative,regular alternation,1,personal pronouns,closed class,obligatory,person number,same,1/2/3 person,,341
+1,Kunama,3,pronominal,>2,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1/2/3 person,,341
+1,Kunama,4,nominal,>1,stress on the suffix,=singular,non-cumulative,regular alternation,2,nouns,open class,obligatory,number,POSS,,,342
+1,Kunama,5,nominal,1,-a,,non-cumulative,suffixation,2,nouns,open class,obligatory,number,same,,,338-339
+1,Kunama,6,nominal,>1,-e,,non-cumulative,suffixation,2,nouns,open class,obligatory,number,same,,,338-339
+1,Kunama,7,attributive,1,-a,,non-cumulative,suffixation,3,adnominal adjectives and some interrogatives and demonstratives,open class,obligatory,number,head NP,,,339
+1,Kunama,8,attributive,>1,-e,,non-cumulative,suffixation,3,adnominal adjectives and some interrogatives and demonstratives,open class,obligatory,number,head NP,,,339
+1,Kunama,9,predicative,1,cumulative suffixation,,cumulative with person,suffixation,4,class I verbs (mostly intransitive),open class,obligatory,indexing,S/A?,1/2/3 person,,341
+1,Kunama,10,predicative,>1,cumulative suffixation,,cumulative with person,suffixation,4,class I verbs (mostly intransitive),open class,obligatory,indexing,S/A?,1/2/3 person,,341
+1,Kunama,11,predicative,1,cumulative prefixation,,cumulative with person,prefixation,5,class II verbs (mostly transitive),open class,optional?,indexing,S?/A,1/2/3 person,can be replaced with object prefixes,341
+1,Kunama,12,predicative,2,cumulative prefixation,,cumulative with person,prefixation,5,class II verbs (mostly transitive),open class,optional?,indexing,S?/A,1/2/3 person,can be replaced with object prefixes,341
+1,Kunama,13,predicative,>2,cumulative prefixation,,cumulative with person,prefixation,5,class II verbs (mostly transitive),open class,optional?,indexing,S?/A,1/2/3 person,can be replaced with object prefixes,341
+1,Kunama,14,predicative,>1,vowel reduplication,=unspecified,non-cumulative,regular alternation,6,some class II verbs (transitive),closed class,optional?,part number,P,1+2 person,"if the subject is 2nd or 3rd person,",341
+1,Kunama,15,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,7,some class II verbs (mostly transitive),closed class,obligatory?,part number,S/A,,,340
+1,Kunama,16,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,7,some class II verbs (mostly transitive),closed class,obligatory?,part number,S/A,,,340
+1,Kunama,17,predicative,>1,-l-/-n-,=unspecified,non-cumulative,infixation?,8,NC,closed class,NC,part number,S/A,,,340
+1,Kunama,18,predicative,>1,(i)n(a)-,=unspecified,non-cumulative,prefixation,9,class II verbs (mostly transitive),open class,NC,part number,P,,,340
+1,Kunama,19,predicative,>1,partial reduplication,=unspecified,non-cumulative,regular alternation,11,class II verbs with a double consonant,open class?,NC,part number,P,,,340
+2,Ama (Sudan),1,nominal,>1,stem alternation,,non-cumulative,irregular stem alternation,1,a few human nouns,closed class,obligatory?,number,same,,,20
+2,Ama (Sudan),2,nominal,many??,partial reduplication,=unspecified,non-cumulative,regular alternation,2,nouns and some adjectives,open class,optional,distr,same,,,20-21
+2,Ama (Sudan),3,pronominal,1,cumulative stem alternation,,cumulative with person and case,irregular stem alternation,3,personal pronouns,closed class,obligatory?,person number,same,"1/2/3 person, nom/acc/gen/dep.g/dat/abl/loc",,83
+2,Ama (Sudan),4,pronominal,>1,cumulative stem alternation,,cumulative with person and case,irregular stem alternation,3,personal pronouns,closed class,obligatory?,person number,same,"1/2/3 person, nom/acc/gen/dep.g/dat/abl/loc",,83
+2,Ama (Sudan),5,pronominal,>1,-ŋi,=singular,non-cumulative,suffixation?,4,who',closed class,obligatory?,number,same,,also occurs on some plural noun forms in other Nyimang languages,90
+2,Ama (Sudan),5,predicative,2,-in,=unspecified,non-cumulative,suffixation,5,many verbs,open class,optional?,part number,S/A/P,,"gradually going out of use, singular or plural may be used instead",104
+2,Ama (Sudan),6,predicative,>1?,-di,=unspecified,non-cumulative,suffixation,5,many verbs,open class,obligatory?,part number,S/A?/P,,,104
+3,Chipewyan,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1/2/3 person,,94
+3,Chipewyan,2,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory?,person number,same,1+2 person,,94
+3,Chipewyan,3,nominal,1,cumulative prefixation,,cumulative with person,prefixation,2,nouns,open class,obligatory,person number,POSS,1/2/3 person,,114-118
+3,Chipewyan,4,nominal,>1,cumulative prefixation,,cumulative with person,prefixation,2,nouns,open class,optional?,person number,POSS,1+2/3 person,optional for 3 person,114-118
+3,Chipewyan,5,predicative,1,cumulative prefixation,,cumulative with person,prefixation,3,verbs,open class,obligatory?,indexing,S/A,1/2/3 person,,118-120
+3,Chipewyan,6,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,3,verbs,open class,obligatory?,indexing,S/A,1/2/3 person,,118-120
+3,Chipewyan,7,predicative,1,cumulative prefixation,,cumulative with person,prefixation,4,transitive verbs,open class,obligatory?,indexing,P,1/2 person,,120-124
+3,Chipewyan,8,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,4,transitive verbs,open class,obligatory?,indexing,P,1+2 person,,120-124
+3,Chipewyan,9,predicative,>1,he-,=singular,cumulative with person,prefixation,5,verbs,open class,optional,indexing,S/A,3 person,,183
+3,Chipewyan,10,predicative,>2,dá-,=plural/singular,non-cumulative,prefixation,6,verbs,open class,optional,distr,S/A/P,,,203-205
+3,Chipewyan,11,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,7,"sit', 'walk'",closed class,obligatory,part number,S,,,240-242
+3,Chipewyan,12,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,7,"sit', 'walk'",closed class,obligatory,part number,S,,,240-242
+3,Chipewyan,13,predicative,1 or 2,stem alternation,,non-cumulative,irregular stem alternation,8,some verbs,closed class,obligatory,part number,S/?,,,240-242
+3,Chipewyan,14,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,8,some verbs,closed class,obligatory,part number,S/?,,,240-242
+3,Chipewyan,15,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,9,some verbs,closed class,obligatory,part number,S/?,,,240-242
+4,Navajo,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1/2/3 person,,8
+4,Navajo,2,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1/2 person,,8
+4,Navajo,8,nominal,>1,-ké,=unspecified,non-cumulative,suffixation,2,kinship terms and some human nouns,closed class,optional?,number,same,,,7
+4,Navajo,9,nominal,>1,stem alternation,,non-cumulative,irregular stem alternation,3,"‘person, tribe, nation’, ‘adult male’",closed class,obligatory?,number,same,,,8
+4,Navajo,3,predicative,1,cumulative prefixation,,cumulative with person,prefixation,4,verbs,open class,obligatory,indexing,S/A,1/2 person,,112-116
+4,Navajo,4,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,4,verbs,open class,obligatory,indexing,S/A,1/2 person,,112-116
+4,Navajo,5,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,5,some verbs,closed class,NC,part number,S/?,,,143
+4,Navajo,6,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,5,some verbs,closed class,NC,coll?,S/?,,,143
+4,Navajo,7,predicative,>2,da-,=plural/singular,non-cumulative,prefixation,6,all word classes,open class,NC,distr,S/A/P,,,62-64
+5,North Slavey,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1/2/3 person,,253-261
+5,North Slavey,2,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1+2/3 person,,253-261
+5,North Slavey,3,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,2,possessive pronouns,closed class,obligatory,person number,same,1/2/3/4 person,,253-261
+5,North Slavey,4,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,2,possessive pronouns,closed class,obligatory,person number,same,1+2/3/4 person,,253-261
+5,North Slavey,5,nominal,>1,-ke,=unspecified,non-cumulative,suffixation,3,"nouns for humans and dogs, demonstratives",open class,optional,number,same,,,247-248
+5,North Slavey,6,predicative,>1,ke-,=unspecified,cumulative with person,prefixation,4,verbs,open class,optional,indexing,S/A,"3 person, human ",,623
+5,North Slavey,7,predicative,1,cumulative prefixation,,cumulative with person,prefixation,5,verbs,open class,obligatory,indexing,S/A,1/2 person,,471-485
+5,North Slavey,8,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,5,verbs,open class,obligatory,indexing,S/A,1/2 person,1pl in Bearlake dialect is generally restricted to dual,471-485
+5,North Slavey,9,predicative,1,cumulative prefixation,,cumulative with person,prefixation,6,transitive verbs,open class,obligatory,indexing,P,1/2/3 person,,627-642
+5,North Slavey,10,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,6,transitive verbs,open class,obligatory,indexing,P,1+2/3 person,,627-642
+5,North Slavey,11,predicative,2,łéh-,=singular,non-cumulative,prefixation,7,some verbs (mostly verbs of movement),closed class,obligatory,part number,S/P?,,,623-227
+5,North Slavey,12,predicative,>2,go-,=singular,non-cumulative,prefixation,7,some verbs (mostly verbs of movement),closed class,obligatory,part number,S/P?,,,623-227
+5,North Slavey,13,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,8,"be seated, go (controlled), go (uncontrolled), fall, ...",closed class,obligatory,part number,S/P?,,,790-793
+5,North Slavey,14,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,8,"be seated, go (controlled), go (uncontrolled), fall, ...",closed class,obligatory,part number,S/P?,,,790-793
+5,North Slavey,15,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,9,"eat, swim, ...",closed class,obligatory,part number,S/P?,,,790-793
+5,North Slavey,16,predicative,1 or 2,stem alternation,,non-cumulative,irregular stem alternation,10,"sleep, die...",closed class,obligatory,part number,S/P?,,,790-793
+5,North Slavey,17,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,10,"sleep, die...",closed class,obligatory,part number,S/P?,,,790-793
+5,North Slavey,18,predicative,NC,yá-,=unspecified,non-cumulative,prefixation,11,vebrs,open class,optional?,"distr, intra",S/P,,,677-703
+6,Sarsi,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,,,62
+6,Sarsi,2,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,,,62
+6,Sarsi,3,attributive,1,cumulative stem alternation,,cumulative with spatial series,irregular stem alternation,2,demonstratives,closed class,obligatory,number,same,,,72-75
+6,Sarsi,4,attributive,>1,cumulative stem alternation,,cumulative with spatial series,irregular stem alternation,2,demonstratives,closed class,obligatory,number,same,,,72-75
+6,Sarsi,5,nominal,>1,-ká,=unspecified,non-cumulative,suffixation,3,mostly kinship terms and terms referring to a reciprocal relationship that is marked by a special prefix,open class,optional?,number,same,,,66
+6,Sarsi,6,nominal,>1,-yìná,=unspecified,non-cumulative,suffixation,4,"kinship terms, personal names, and after a demonstrative",open class,optional?,"associative, collective, deference",same,,,66
+6,Sarsi,7,nominal,>1,stem alternation,,non-cumulative,irregular stem alternation,5,several human nouns,closed class,NC,number,same,,,67
+6,Sarsi,8,predicative,1,cumulative prefixation,,cumulative with person,prefixation,6,verbs,open class,obligatory?,indexing,S/A,1/2 person,,193
+6,Sarsi,9,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,6,verbs,open class,obligatory?,indexing,S/A,1/2 person,,193
+6,Sarsi,10,predicative,1,cumulative prefixation,,cumulative with person,prefixation,7,transitive verbs,open class,obligatory?,indexing,P,1/2 person,,196-197
+6,Sarsi,11,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,7,transitive verbs,open class,obligatory?,indexing,P,1/2 person,,196-197
+6,Sarsi,12,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,8,verbs,open class,optional,indexing,S/A/P,3 person,,194-196
+6,Sarsi,13,predicative,1 or 2,stem alternation,,non-cumulative,irregular stem alternation,9,several verbs (intransitive/transitive),closed class,obligatory?,part number,S/P,,,56-59
+6,Sarsi,14,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,9,several verbs (intransitive/transitive),closed class,obligatory?,"part number, accompanied action with sg subject",S/P,,,56-59
+6,Sarsi,15,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,10,a few intransitive verbs,closed class,obligatory?,part number,S,,,56-59
+6,Sarsi,16,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,10,a few intransitive verbs,closed class,obligatory?,part number,S,,,56-59
+6,Sarsi,17,predicative,>2,da-,=non-plural/unspecified/plural [3+],non-cumulative,prefixation,11,some verbs,open class,NC,part number,S/P,,,Cook 1974: 109
+7,Kaska,1,pronominal,1,cumulative prefixation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory?,person number,same,1/2/3 person,,386
+7,Kaska,2,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory?,person number,same,1/2/3 person,,386
+7,Kaska,3,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,2,oblique object pronouns used with postpositions,closed class,obligatory?,person number,same,1/2/3 person,,396
+7,Kaska,4,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,2,oblique object pronouns used with postpositions,closed class,obligatory?,person number,same,1/2/3 person,,396
+7,Kaska,3,nominal,1,cumulative prefixation,,cumulative with person,prefixation,3,nouns,open class,obligatory?,person number,POSS,1/2/3 person,,372-375
+7,Kaska,4,nominal,>1,cumulative prefixation,,cumulative with person,prefixation,3,nouns,open class,obligatory?,person number,POSS,1/2/3 person,,372-375
+7,Kaska,5,predicative,1,cumulative prefixation,,cumulative with person,prefixation,4,verbs,open class,obligatory?,indexing,S/A,1/2/3 person,,"469, 546"
+7,Kaska,6,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,4,verbs,open class,obligatory?,indexing,S/A,1/2/3 person,,"469, 546"
+7,Kaska,7,predicative,1,cumulative prefixation,,cumulative with person,prefixation,5,transitive verbs,open class,obligatory?,indexing,P,1/2/3 person,,549
+7,Kaska,8,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,5,transitive verbs,open class,obligatory?,indexing,P,1/2/3 person,,549
+7,Kaska,9,predicative,2,łe-,,non-cumulative,prefixation,6,sit',closed class,obligatory?,part number,S,,,557
+7,Kaska,10,predicative,>2,ne- / ye-,=non-plural,non-cumulative,prefixation,7,a number of verbs,open class,NC,"part number, intra?",S/A ?,,,557; 561
+7,Kaska,11,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,8,"some verbs (‘walk around’, ‘sit’, ‘go along’)",closed class,optional?,"part number, ""social solidarity""",S ?,,,84
+7,Kaska,12,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,8,"some verbs (‘walk around’, ‘sit’, ‘go along’)",closed class,optional?,"part number, ""social solidarity""",S ?,,,84
+8,Tahltan,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,oblique object pronouns used with postpositions,closed class,obligatory?,person number,same,1/2/3 person,,18
+8,Tahltan,2,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,oblique object pronouns used with postpositions,closed class,obligatory?,person number,same,1/2/3 person,,18
+8,Tahltan,3,nominal,1,cumulative prefixation,,cumulative with person,prefixation,2,nouns,open class,obligatory?,person number,POSS,1/2/3 person,,14
+8,Tahltan,4,nominal,>1,cumulative prefixation,,cumulative with person,prefixation,2,nouns,open class,obligatory?,person number,POSS,1/2/3 person,,14
+8,Tahltan,5,predicative,1,cumulative prefixation,,cumulative with person,prefixation,3,verbs,open class,obligatory?,indexing,S/A,1/2 person,,16
+8,Tahltan,6,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,3,verbs,open class,obligatory?,indexing,S/A,1/2 person,,16
+8,Tahltan,7,predicative,1,cumulative prefixation,,cumulative with person,prefixation,4,transitive verbs,open class,obligatory?,indexing,P,1/2/3 person,,18
+8,Tahltan,8,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,4,transitive verbs,open class,obligatory?,indexing,P,1+2/3 person,,18
+8,Tahltan,9,predicative,many??,da-,=unspecified,non-cumulative,prefixation,5,some verbs,NC,optional?,"coll S/A, distr P ?",S/A/P ?,,“can refer to action done separately on plural objects or collectively on plural subjects”,18
+8,Tahltan,10,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,6,"some verbs  (‘sit’, ‘go’, ‘come’)",closed class,obligatory?,part number,S ?,,,Nater 2006: 55; Cook 1973: 102
+8,Tahltan,11,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,6,"some verbs  (‘sit’, ‘go’, ‘come’)",closed class,obligatory?,part number,S ?,,,Nater 2006: 55; Cook 1973: 102
+9,Karuk,1,nominal,1,cumulative prefixation,,cumulative with person,prefixation,1,nouns,closed class,obligatory,person number,POSS,,,56
+9,Karuk,2,nominal,>1,cumulative prefixation,,cumulative with person,prefixation,1,nouns,closed class,obligatory,person number,POSS,,,56
+9,Karuk,3,nominal,>1,-sa(s) ,=unspecified,non-cumulative,suffixation,2,human nouns and independent adjectives,open class,optional,number,same,,,81
+9,Karuk,4,predicative,1,cumulative prefication or circumfixation,,"cumulative with person, mood and indexing",prefixation or circumfixation,3,verbs,open class,obligatory,indexing,S/A+P,,some verbs do not take some markers (mostly preson-based restrictions),58-60
+9,Karuk,5,predicative,>1,cumulative prefication or circumfixation,,"cumulative with person, mood and indexing",prefixation or circumfixation,3,verbs,open class,obligatory,indexing,S/A+P,,some verbs do not take some markers (mostly preson-based restrictions),58-60
+9,Karuk,6,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,4,several verbs 1,closed class,obligatory,part number,S,,,88
+9,Karuk,7,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,4,several verbs 1,closed class,obligatory,part number,S,,,88
+9,Karuk,8,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,5,several verbs 2,closed class,obligatory,part number,P,inimate ,,88
+9,Karuk,9,predicative,1,ik-,,non-cumulative,prefixation?,6,several verbs (intransitive?),closed class,obligatory?,part number,S,,,86
+9,Karuk,10,predicative,2,iθ-,,non-cumulative,prefixation?,6,several verbs (intransitive?),closed class,obligatory?,part number,S,,,86
+9,Karuk,11,predicative,>1,-na,=unspecified,non-cumulative,suffixation,7,"personal and ""transpersonal"" verbs",open class,optional,part number?,S/A?/P ,mostly human,,112-113
+9,Karuk,12,predicative,>1,-ar-a-hi,=unspecified,non-cumulative,suffixation,8,not restricted,open class,optional,collective,S/A,,,85
+9,Karuk,13,predicative,NC,-va,=unspecified,non-cumulative,suffixation,9,not restricted,open class,optional,"distr, intra, inter",S?,,,92-93
+10,Western Keres,1,nominal,>1,-ty'itra,=unspecified,non-cumulative,suffixation,1,not restricted,open class,optional,coll,same,,,66-75
+10,Western Keres,2,nominal,>1,-dyeimishe,=unspecified,non-cumulative,suffixation,2,possessed nouns,open class,optional,number,same,,,66-75
+10,Western Keres,3,nominal,1,cumulative prefixation,,cumulative with person,prefixation,3,common nouns and kinship terms,open class,obligatory,person number,POSS,,,64
+10,Western Keres,4,nominal,2,cumulative prefixation,,cumulative with person,prefixation,3,common nouns and kinship terms,open class,obligatory,person number,POSS,,,64
+10,Western Keres,5,nominal,>2,cumulative prefixation,,cumulative with person,prefixation,3,common nouns and kinship terms,open class,obligatory,person number,POSS,,,64
+10,Western Keres,6,predicative,2,-nɨ,=singular,non-cumulative,suffixation,4,"transitive, reflexive, reciprocal, benefactive, and some intransitive verb themes",open class,obligatory,part number,S/A,,,188-218
+10,Western Keres,7,predicative,>2,-na,=singular,non-cumulative,suffixation,4,"transitive, reflexive, reciprocal, benefactive, and some intransitive verb themes",open class,obligatory,part number,S/A,,,188-218
+10,Western Keres,8,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,5,"transitive, benefactive, passive and some intransitive themes",open class,optional?,part number,S/P,,,188-218
+10,Western Keres,9,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,5,"transitive, benefactive, passive and some intransitive themes",open class,optional?,part number,S/P,,,188-218
+10,Western Keres,10,predicative,1,cumulative suffixation,,"cumulative with person, role, mood, and polarity",suffixation,6,some verbs,closed class,obligatory?,indexing,S/A/P,,,218-240
+10,Western Keres,11,predicative,2,cumulative suffixation,,"cumulative with person, role, mood, and polarity",suffixation,6,some verbs,closed class,obligatory?,indexing,S/A/P,,,218-240
+10,Western Keres,12,predicative,>2,cumulative suffixation,,"cumulative with person, role, mood, and polarity",suffixation,6,some verbs,closed class,obligatory?,indexing,S/A/P,,,218-240
+10,Western Keres,13,predicative,NC,reduplication,=unspecified,non-cumulative,reduplication,7,some verbs,closed class,optional?,"part number, intra",S/A?,,,221-223
+11,Choctaw,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1 person,,93-95
+11,Choctaw,2,pronominal,several,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1 person,,93-95
+11,Choctaw,3,pronominal,many,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1 person,,93-95
+11,Choctaw,4,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,2,personal pronouns,closed class,obligatory,person number,same,2 person,,93-95
+11,Choctaw,5,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,2,personal pronouns,closed class,obligatory,person number,same,2 person,,93-95
+11,Choctaw,6,predicative,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,3,possessive pronouns,closed class,obligatory,person number,same,1 person,,95-98
+11,Choctaw,7,predicative,several,cumulative stem alternation,,cumulative with person,irregular stem alternation,3,possessive pronouns,closed class,obligatory,person number,same,1 person,,95-98
+11,Choctaw,8,predicative,many,cumulative stem alternation,,cumulative with person,irregular stem alternation,3,possessive pronouns,closed class,obligatory,person number,same,1 person,,95-98
+11,Choctaw,9,predicative,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,4,possessive pronouns,closed class,obligatory,person number,same,2 person,,95-98
+11,Choctaw,10,predicative,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,4,possessive pronouns,closed class,obligatory,person number,same,2 person,,95-98
+11,Choctaw,11,predicative,1,cumulative suffixation,,cumulative with person,suffixation,5,verbs,open class,obligatory,indexing,S/A,1 person,,137
+11,Choctaw,12,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,5,verbs,open class,obligatory,indexing,S/A,1 person,,137
+11,Choctaw,13,predicative,1,cumulative prefixation,,cumulative with person,prefixation,6,verbs,open class,obligatory,indexing,S/A,2 person,,137
+11,Choctaw,14,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,6,verbs,open class,obligatory,indexing,S/A,2 person,,137
+11,Choctaw,15,predicative,>1,oklah=,=unspecified,cumulative with person,preposition,7,verbs,open class,optional,indexing?,S/A,3 person,,239
+11,Choctaw,15,predicative,1,cumulative prefixation,,cumulative with person,prefixation,8,verbs,open class,obligatory,indexing,P,1 person,,137
+11,Choctaw,16,predicative,several,cumulative prefixation,,cumulative with person,prefixation,8,verbs,open class,obligatory,indexing,P,1 person,,137
+11,Choctaw,17,predicative,many,cumulative prefixation,,cumulative with person,prefixation,8,verbs,open class,obligatory,indexing,P,1 person,,137
+11,Choctaw,18,predicative,1,cumulative prefixation,,cumulative with person,prefixation,9,verbs,open class,obligatory,indexing,P,2 person,,137
+11,Choctaw,19,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,9,verbs,open class,obligatory,indexing,P,2 person,,137
+11,Choctaw,20,predicative,1,cumulative prefixation,,cumulative with person,prefixation,10,verbs,open class,obligatory,indexing,"source, goal",1 person,,137
+11,Choctaw,21,predicative,several,cumulative prefixation,,cumulative with person,prefixation,10,verbs,open class,obligatory,indexing,"source, goal",1 person,,137
+11,Choctaw,22,predicative,many,cumulative prefixation,,cumulative with person,prefixation,10,verbs,open class,obligatory,indexing,"source, goal",1 person,,137
+11,Choctaw,23,predicative,1,cumulative prefixation,,cumulative with person,prefixation,11,verbs,open class,obligatory,indexing,"source, goal",2 person,,137
+11,Choctaw,24,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,11,verbs,open class,obligatory,indexing,"source, goal",2 person,,137
+11,Choctaw,25,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,12,some verbs (mostly verbs of motion and location),closed class,optional?,part number,S/P,,,134-135
+11,Choctaw,26,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,12,some verbs (mostly verbs of motion and location),closed class,obligatory?,part number,S/P,,,134-135
+11,Choctaw,27,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,13,some verbs,closed class,obligatory?,part number,S/P,,,134-135
+11,Choctaw,28,predicative,2,-bika ,=unspecified/dual,non-cumulative,suffixation,14,verbs,open class,optional,both',S/A/P,,,225
+11,Choctaw,29,predicative,many??,-biika,=unspecified/plural,non-cumulative,suffixation,15,verbs,open class,optional,"distr, intra, inter",S/P ?,,,225
+11,Choctaw,30,predicative,2,-tokla,=unspecified/dual,non-cumulative,suffixation,16,verbs,open class,optional,part number,S/A,,,225
+11,Choctaw,31,predicative,>1,ho(o)- / (o)oh-,=singular,cumulative with person,prefixation,17,verbs,open class,obligatory?,imperative plural,S,2 person,,195
+12,Creek,1,nominal,>1,-aki / -ta:ki,=singular,non-cumulative,suffixation,1,a few human nouns,closed class,obligatory?,number,same,,,127-130
+12,Creek,2,nominal,many??,-âlki,=unspecified,non-cumulative,suffixation,2,commonly used with names of clans,open class,NC,group plural,same,,,127-130
+12,Creek,3,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,3,personal pronouns,closed class,obligatory?,person number,same,1/2 person,,142
+12,Creek,4,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,4,possessive pronouns,closed class,obligatory?,person number,same,1 person,,133
+12,Creek,5,predicative,>1,cumulative suffixation,,cumulative with person,suffixation,5,verbs,open class,obligatory?,indexing,S/A,1/2 person,,168-179
+12,Creek,6,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,6,transitive verbs,open class,obligatory?,indexing,P,1 person,,168-179
+12,Creek,7,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,7,verbs,open class,obligatory?,indexing,DAT,1 person,,183-192
+12,Creek,8,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,8,verbs referring to position or movement and several transitive verbs,closed class,obligatory?,part number,S/P,+ woven objects or objects made of cloth,,197-203
+12,Creek,9,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,8,verbs referring to position or movement and several transitive verbs,closed class,obligatory?,part number,S/P,+  items with many particles and liquids,,197-203
+12,Creek,10,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,9,verbs referring to position or movement and several transitive verbs,closed class,obligatory?,part number,S/P,"+ woven objects or objects made of cloth, items with many particles, and liquids",,197-203
+12,Creek,11,predicative,>1,reduplication,,non-cumulative,reduplication,10,intransitive verbs or adjectives,open class,obligatory?,"part number?, distr, intra",S,,,203-210
+12,Creek,12,predicative,many??,replace their final consonant or consonants with hl,,non-cumulative,regular alternation,11,some verbs,closed class,obligatory?,"distr, intra",S/P,+ in pieces,,210
+12,Creek,13,predicative,>1,-ak,=unspecified,non-cumulative,suffixation,12,"verbs or adjectives, if plurality is not specified otherwise",open class,optional,part number,S/P,3 person??,,210-211
+12,Creek,14,predicative,2 or >1,-ho-,,non-cumulative,infixation,13,many dual and plural stems,closed class,obligatory?,part number,S/P,+ woven objects or objects made of cloth,,197-203
+12,Creek,15,predicative,>2,-ic-,,non-cumulative,infixation,14,some intransitive plural [3+] verb stems,closed class,obligatory?,part number,S/P,+ items with many particles and liquids,,197-203
+13,Koasati,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,independent personal pronouns,closed class,obligatory,person number,same,1/2 person,,417-419
+13,Koasati,2,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,independent personal pronouns,closed class,obligatory,person number,same,1/2 person,,417-419
+13,Koasati,3,nominal,1,cumulative prefixation,,cumulative with person,prefixation,2,nouns,open class,obligatory,person number,POSS,1/2 person,,432
+13,Koasati,4,nominal,>1,cumulative prefixation,,cumulative with person,prefixation,2,nouns,open class,obligatory,person number,POSS,1/2 person,,432
+13,Koasati,5,nominal,many??,-ha,=unspecified/paucal,non-cumulative,suffixation,3,human or diminutive nouns,open class,optional,number,same,,,446
+13,Koasati,6,nominal,several,-ki,=singular,non-cumulative,suffixation,4,nouns derived either historically or synchronically with the diminutive suffix -(o)si,open class,obligatory?,number,same,,,449
+13,Koasati,7,predicative,1,cumulative affixation,,cumulative with person,prefixation or suffixation,5,verbs,closed class,obligatory,indexing,S/A,1/2 person,,56
+13,Koasati,8,predicative,>1,cumulative affixation,,cumulative with person,prefixation or suffixation,5,verbs,closed class,obligatory,indexing,S/A,1/2 person,,56
+13,Koasati,9,predicative,1,cumulative prefixation,,cumulative with person,prefixation,6,transitive verbs,closed class,obligatory,indexing,P,1/2 person,,127-135
+13,Koasati,10,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,6,transitive verbs,closed class,obligatory,indexing,P,1/2 person,,127-135
+13,Koasati,11,predicative,1,cumulative prefixation,,cumulative with person,prefixation,7,verbs,closed class,obligatory,indexing,DAT/BEN,1/2 person,,127-135
+13,Koasati,12,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,7,verbs,closed class,obligatory,indexing,DAT/BEN,1/2 person,,127-135
+13,Koasati,13,predicative,>1,formative replacement,=singular,non-cumulative,regular alternation,8,some verbs (mostly position verbs),closed class,obligatory?,"part number, intra",S/P,,,314-322
+13,Koasati,14,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,9,some verbs (mostly position verbs),closed class,obligatory?,part number,S/P,,,322-324
+13,Koasati,15,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,9,some verbs (mostly position verbs),closed class,obligatory?,part number,S/P,,,322-324
+13,Koasati,16,predicative,1 or 2,stem alternation,,non-cumulative,irregular stem alternation,10,some verbs (mostly motion verbs),closed class,obligatory?,part number,S/P,,,322-324
+13,Koasati,17,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,10,some verbs (mostly motion verbs),closed class,obligatory?,part number,S/P,,,322-324
+13,Koasati,18,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,11,some verbs,closed class,obligatory?,part number,S/P,,,322-324
+13,Koasati,19,predicative,>1,partial reduplication,=singular,non-cumulative,regular alternation,12,some verbs,closed class,obligatory?,"part number, intra",S,,,325-327
+13,Koasati,20,predicative,>1,-s-,=singular,non-cumulative,infixation,13,some verbs,closed class,obligatory?,part number,S/P,,,327-328
+13,Koasati,21,predicative,2 or >1,-ci-,=unspecified/non-plural/plural,cumulative with person,infixation,14,some verbs,closed class,NC,"part number, intra",S/P,3 person,may combine with formative replacement,328-330
+13,Koasati,22,predicative,many??,ho-/oh-,=unspecified,non-cumulative,prefixation,15,"verbs, adjectives",open class,optional,"distr, intra, passive",S/A/P,,,136-138
+13,Koasati,23,predicative,many??,hoho-,=unspecified,non-cumulative,prefixation,16,verbs,open class,optional,inter,situation,,,139-140
+14,Mikasuki,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1 person,,36-40
+14,Mikasuki,2,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1 person,,36-40
+14,Mikasuki,3,nominal,1,cumulative prefixation,,cumulative with person,prefixation,2,inalienably possessed nouns,open class,obligatory,person number,POSS,1 person,,42
+14,Mikasuki,4,nominal,>1,cumulative prefixation,,cumulative with person,prefixation,2,inalienably possessed nouns,open class,obligatory,person number,POSS,1 person,,42
+14,Mikasuki,5,nominal,>1,ho- ,=unspecified,non-cumulative,prefixation,3,human nouns,open class,optional,number,same,,"as a plural suffix on nouns that are marked for inalienable possession; as a verbal infix to indicate second or third person human plural of S, A, P, or R",46-48
+14,Mikasuki,6,nominal,>1,-ho,=unspecified,non-cumulative,suffixation,4,nouns that are marked for inalienable possession,open class,optional?,number,same,,,46-48
+14,Mikasuki,7,predicative,>1,-ho-,=unspecified,cumulative with person,infixation,5,verbs,open class,optional,indexing?,S/A/P/R,"2+3 person, human",,46-48
+14,Mikasuki,8,nominal,>1,-a:ł ,=unspecified/plural,non-cumulative,suffixation,6,nouns,open class,optional,number,same,,may co-occur with ho- to convey the meaning ‘all of the…’,52
+14,Mikasuki,9,predicative,1,cumulative suffixation,,cumulative with person,suffixation,7,transitive verbs and intransitive verbs of movement,open class,obligatory?,indexing,S/A,1/2 person ,,113-116
+14,Mikasuki,10,predicative,>1,cumulative suffixation,,cumulative with person,suffixation,7,transitive verbs and intransitive verbs of movement,open class,obligatory?,indexing,S/A,1/2 person ,,113-116
+14,Mikasuki,11,predicative,1,cumulative prefixation,,cumulative with person,prefixation,8,transitive verbs,open class,obligatory?,indexing,P,1 person ,,113-116
+14,Mikasuki,12,predicative,>1,cumulative prefixation,,cumulative with person,prefixation,8,transitive verbs,open class,obligatory?,indexing,P,1 person ,,113-116
+14,Mikasuki,11,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,9,"some common verbs (transitive, intransitive referring to action, or positional)",closed class,obligatory,part number (or/and intRAoccasional?),S/A/P/R,+ cloth-like items,,68-77
+14,Mikasuki,12,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,9,"some common verbs (transitive, intransitive referring to action, or positional)",closed class,obligatory,part number or/and intRAoccasional,S/A/P/R,+ liquids,,68-77
+14,Mikasuki,13,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,10,"some common verbs (transitive, intransitive referring to action, or positional), predicative adjectives",closed class,obligatory,part number or/and intRAoccasional,S/A/P/R,+ cloth-like items and liquid,,68-77
+15,Wichita,1,predicative,>1,hi’-,=singular,non-cumulative,prefixation,1,verbs,open class,mutually exclusive,part number,S/A,,"when the object is marked, the subject is unmarked",16-22; 184-197; 225-227
+15,Wichita,2,predicative,>1,-‘ak,=singular,cumulative with person,suffixation,2,verbs,open class,obligatory?,indexing? distr?,S/P,3 person,,16-22; 184-197; 225-227
+15,Wichita,3,predicative,>1,rV,=singular,cumulative with person,suffixation?,3,verbs,open class,obligatory?,indexing? coll?,S/P,3 person,,16-22; 184-197; 225-227
+15,Wichita,4,predicative,2,hi’...’ak,=singular,cumulative with person,circumfixation,4,transitive verbs,open class,obligatory?,indexing?,P,1/2 person,,16-22; 184-197; 225-227
+15,Wichita,5,predicative,>2,ra:k,=singular,cumulative with person,suffixation?,4,transitive verbs,open class,obligatory?,indexing?,P,1/2 person,,16-22; 184-197; 225-227
+15,Wichita,6,predicative,2,-wa,=plural,non-cumulative,suffixation,5,"a few active verbs (‘come’, ‘go by’, ‘sit’, ‘stand’, ‘sit down’, and their derivatives)",closed class,obligatory?,part number,S/A,,,16-22; 184-197; 225-227
+15,Wichita,7,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,6,"‘be’, ‘go’",closed class,obligatory?,part number,S/A,,,187
+16,Mohawk,1,pronominal,1,cumulative stem alternation,,cumulative with person and gender,irregular stem alternation,1,independent personal pronouns,closed class,obligatory,person number,same,3 person??,,739-741
+16,Mohawk,2,pronominal,>1,cumulative stem alternation,,cumulative with person and gender,irregular stem alternation,1,independent personal pronouns,closed class,obligatory,person number,same,3 person??,,739-741
+16,Mohawk,3,predicative,1,cumulative perfixation,,"cumulative with person, gender, and indexing",prefixation,2,verbs,open class,obligatory,indexing,S/A,"1/2/3 person, 3m/f",,732-739
+16,Mohawk,4,predicative,2,cumulative perfixation,,"cumulative with person, gender, and indexing",prefixation,2,verbs,open class,obligatory,indexing,S/A,"1/2/3 person, 3m/f",,732-739
+16,Mohawk,5,predicative,>2,cumulative perfixation,,"cumulative with person, gender, and indexing",prefixation,2,verbs,open class,obligatory,indexing,S/A,"1/2/3 person, 3m/f",,732-739
+16,Mohawk,6,predicative,1,cumulative perfixation,,cumulative with person and indexing,prefixation,3,transitive verbs,open class,obligatory,indexing,P,1/2 person,,732-739
+16,Mohawk,7,predicative,2,cumulative perfixation,,cumulative with person and indexing,prefixation,3,transitive verbs,open class,obligatory,indexing,P,1/2 person,,732-739
+16,Mohawk,8,predicative,>2,cumulative perfixation,,cumulative with person and indexing,prefixation,3,transitive verbs,open class,obligatory,indexing,P,1/2 person,,732-739
+16,Mohawk,9,predicative,1,cumulative perfixation,,"cumulative with person, gender, and indexing",prefixation,3,transitive verbs,open class,obligatory,indexing,P,3m/f,,732-739
+16,Mohawk,10,predicative,>1,cumulative perfixation,,cumulative with person and gender,prefixation,3,transitive verbs,open class,obligatory,indexing,P,3m/f,,732-739
+16,Mohawk,11,nominal,1,cumulative perfixation,,cumulative with person and gender,prefixation,4,nouns,open class,obligatory,person number,POSS,"1/2/3 person, 3m/f, ilieble, animate",,744
+16,Mohawk,12,nominal,2,cumulative perfixation,,cumulative with person and gender,prefixation,4,nouns,open class,obligatory,person number,POSS,"1/2/3 person, 3m/f, ilieble, animate",,744
+16,Mohawk,13,nominal,>2,cumulative perfixation,,cumulative with person and gender,prefixation,4,nouns,open class,obligatory,person number,POSS,"1/2/3 person, 3m/f, ilieble, animate",,744
+16,Mohawk,14,nominal,1,cumulative perfixation,,cumulative with person,prefixation,5,nouns,open class,obligatory,person number,POSS,"1/2 person, alieble, animate",,744
+16,Mohawk,15,nominal,2,cumulative perfixation,,cumulative with person,prefixation,5,nouns,open class,obligatory,person number,POSS,"1/2 person, alieble, animate",,744
+16,Mohawk,16,nominal,>2,cumulative perfixation,,cumulative with person,prefixation,5,nouns,open class,obligatory,person number,POSS,"1/2 person, alieble, animate",,744
+16,Mohawk,17,nominal,1,cumulative perfixation,,cumulative with person and gender,prefixation,5,nouns,open class,obligatory,person number,POSS,"3m/f alieble, animate",,744
+16,Mohawk,18,nominal,>1,cumulative perfixation,,cumulative with person and gender,prefixation,5,nouns,open class,obligatory,person number,POSS,"3m/f alieble, animate",,744
+16,Mohawk,19,nominal,many??,=shon’a,=unspecified,non-cumulative,preposition,6,nouns,open class,optional,distr,same,,,746
+16,Mohawk,20,predicative,many??,-anion,=unspecified/plural [3+],non-cumulative,suffixation,7,verbs,open class,optional,distr,S/P,,,755-757
+16,Mohawk,21,predicative,many??,-'s,=unspecified/plural [3+],non-cumulative,suffixation,8,stative verbs,open class,optional,distr,S,,,755-757
+16,Mohawk,22,predicative,2,te-,=unspecified/dual,non-cumulative,prefixation,9,some verbs,closed class?,optional?,?? lixicalized,S?,,,757
+17,Northern Paiute,1,nominal,>1,-mɨ / -ki,=singular,non-cumulative,suffixation,1,some human nouns,closed class,obligatory?,number,same,,,100-104
+17,Northern Paiute,2,nominal,1,su= / ka=,,cumulative with case,preposition,2,noun phrase,open class,obligatory?,singular determiner,same,NOM/OBL,,136
+17,Northern Paiute,3,nominal,>1,mɨ=,,non-cumulative,preposition,2,noun phrase,open class,obligatory?,plural determiner,same,,,136
+17,Northern Paiute,4,nominal,>1,stem alternation,,non-cumulative,irregular stem alternation,3,some human nouns,closed class,obligatory?,number,same,,,100-104
+17,Northern Paiute,5,pronominal,1,cumulative suffixation,,cumulative with person,suffixation,4,personal pronouns,closed class,obligatory,person number,same,S/O/IO,,155-179
+17,Northern Paiute,6,pronominal,>1,cumulative suffixation,,cumulative with person,suffixation,4,personal pronouns,closed class,obligatory,person number,same,S/O/IO,,155-179
+17,Northern Paiute,7,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,5,object enclitics and possessive enclitics,closed class,obligatory,person number,same,,,155-179
+17,Northern Paiute,8,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,5,object enclitics and possessive enclitics,closed class,obligatory,person number,same,,,155-179
+17,Northern Paiute,9,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,6,6 verbs,closed class,optional?,part number,S/P,,,315-323
+17,Northern Paiute,10,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,6,6 verbs,closed class,optional?,part number,S/P,,,315-323
+17,Northern Paiute,11,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,7,12 verbs,closed class,optional?,part number,S/P,,,315-323
+17,Northern Paiute,12,predicative,many??,partial reduplication,=unspecified,non-cumulative,regular alternation,8,verbs,open class,optional?,"distr, intra",S/A?,,"in some cases, partial reduplication marks the dual stem on verbs or plurality (?) on nouns",412-413
+18,Shoshoni,1,nominal,1,cumulative suffixation,,cumulative with case,suffixation,1,nouns and personal pronouns,open class,obligatory?,number,same,NOM/ACC/POSS,,17-52
+18,Shoshoni,2,nominal,2,cumulative suffixation,,cumulative with case,suffixation,1,nouns and personal pronouns,open class,obligatory?,number,same,NOM/ACC/POSS,,17-52
+18,Shoshoni,3,nominal,>2,cumulative suffixation,,cumulative with case,suffixation,1,nouns and personal pronouns,open class,obligatory?,number,same,NOM/ACC/POSS,,17-52
+18,Shoshoni,4,nominal,>1,stem alternation,,non-cumulative,irregular stem alternation,2,some nouns,closed class,obligatory?,number,same,,,51
+18,Shoshoni,5,nominal,>1,partial reduplication,=dual/plural,non-cumulative,irregular stem alternation,3,some nouns,closed class,obligatory?,number,same,,,51
+18,Shoshoni,6,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,4,some verbs,closed class?,obligatory?,part number,S/P,,,97-101
+18,Shoshoni,7,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,4,some verbs,closed class?,obligatory?,part number,S/P,,,97-101
+18,Shoshoni,8,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,5,some verbs,closed class?,obligatory?,part number,S/P,,,97-101
+18,Shoshoni,9,predicative,2,partial reduplication,=unspecified,non-cumulative,regular alternation,6,some verbs,closed class?,obligatory?,part number,S/P,,"a few verbs have a single stem for singular and plural, but a separate stem for dual",97-101
+18,Shoshoni,10,predicative,>1,-i’ih,=singular,non-cumulative,suffixation,7,some verbs,closed class?,obligatory?,part number,S/P,,,97-101
+19,Southeastern Pomo,1,pronominal,>1,-ay,=singular,non-cumulative,suffixation,1,personal pronouns,closed class,obligatory,person number,same,,,171-177
+19,Southeastern Pomo,2,nominal,1,-wi,,non-cumulative,suffixation,2,human nouns,open class,optional?,number,same,,,171-177
+19,Southeastern Pomo,3,nominal,>1,-mfo,,non-cumulative,suffixation,2,human nouns,open class,optional?,number,same,,,171-177
+19,Southeastern Pomo,4,nominal,>1,stem alternation,,non-cumulative,irregular stem alternation,3,some nouns,closed class?,NC,number,same,,,171-177
+19,Southeastern Pomo,5,predicative,>1,"-y, -kp, -mp, -cp, and -qp",=unspecified,non-cumulative,suffixation,4,verbs,open class,optional?,part number,NC,,some may combine with each other (their distribution is not entirely clear),126-157
+19,Southeastern Pomo,6,predicative,>1,"-t,-w",=unspecified,non-cumulative,suffixation,5,verbs,open class?,optional?,"distr, intra",NC,,,126-157
+19,Southeastern Pomo,7,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,6,some verbs of motion and position,closed class?,NC,part number,S/P ?,,,101
+19,Southeastern Pomo,8,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,6,some verbs of motion and position,closed class?,NC,part number,S/P ?,+ mass nouns,,101
+19,Southeastern Pomo,9,predicative,1 or 2,stem alternation,,non-cumulative,irregular stem alternation,7,some verbs of motion and position,closed class?,NC,part number,S/P ?,,,101
+19,Southeastern Pomo,10,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,7,some verbs of motion and position,closed class?,NC,part number,S/P ?,+ mass nouns,,101
+19,Southeastern Pomo,11,predicative,2,-tta,=unspecified/plural,non-cumulative,suffixation,8,verbs,open class,optional?,part number,S/A/P ?,,,141
+20,Maricopa,1,nominal,>1,"ablaut, suffix -sh, prefix sh-/t-, or their combination",=unspecified,non-cumulative,irregular stem alternation,1,some human and animate nouns,closed class,optional,number,same,,,29-30
+20,Maricopa,2,predicative,2,"prefixes uu-, n-, and t-/sh-, ablaut, or suffixes -sh and -v, stem alternation",=unspecified,non-cumulative,irregular stem alternation,2,most verbs (not all that have plural),open class,optional,"part number, (coll?)",S/A,,,90-102
+20,Maricopa,3,predicative,>2,"prefixes uu-, n-, and t-/sh-, by ablaut, or by the suffixes -sh and -v, stem alternation",=unspecified,non-cumulative,irregular stem alternation,3,most verbs,open class,optional,"part number, (distr?)",S/A,,,90-102
+20,Maricopa,4,predicative,>1,nyi-,=unspecified,non-cumulative,prefixation,4,transtive verbs,open class,optional,part number,P,,,148
+20,Maricopa,5,predicative,>1,irregular affixes,,non-cumulative,irregular stem alternation,5,some verbs,open class,obligatory,"part number, distr, hab",P,,"two stems of transitive verbs have different dual subject forms, but their (trI)plural subject stem is identical, which is not true, however, for intransitive verbs",90-102
+21,Amanab,1,pronominal,2,-ningri,=unspecified,non-cumulative,suffixation,1,personal pronouns,closed class,optional,person number,same,,,31
+21,Amanab,2,pronominal,>2,-(n)ger,=unspecified,non-cumulative,suffixation,1,personal pronouns,closed class,optional,person number,same,,,31
+21,Amanab,1,pronominal,1 or 2,-na,=unspecified/dual,non-cumulative,suffixation,2,possessive pronouns,closed class,obligatory?,number + poss,same,,,33
+21,Amanab,2,pronominal,>2,-ni,=unspecified/plural,non-cumulative,suffixation,2,possessive pronouns,closed class,obligatory?,number + poss,same,,,33
+21,Amanab,3,predicative,2,(a)h-,=singular,non-cumulative,prefixation,3,verbs,open class,obligatory?,part number,S/A,,,24-25
+21,Amanab,4,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,4,intransitive verbs,open class,obligatory?,part number,S/A,,,24-25
+21,Amanab,5,predicative,>2,vowel raising,=singular,non-cumulative,regular alternation,5,transitive verbs,open class,obligatory?,part number,S/A,,,24-25
+21,Amanab,6,predicative,many??,fa-,=unspecified,non-cumulative,prefixation,6,verbs,open class,optional,inter,situation,,,20-21
+22,Imonda,1,nominal,2,-nёglel,=unspecified,non-cumulative,suffixation,1,kinship terms,closed class,optional,number,same,,,36
+22,Imonda,2,nominal,>2,-nёgal,=unspecified,non-cumulative,suffixation,1,kinship terms,closed class,optional,number,same,,,36
+22,Imonda,3,nominal,1 or 2,-ianèi,=plural,non-cumulative,suffixation,2,5 human nouns,closed class,obligatory (absent if the numeral precedes),number,same,,non-plural < partitive < source,58
+22,Imonda,4,predicative,1,-h,=plural,non-cumulative,suffixation,3,give',closed class,obligatory?,non-core argument number,R,,,86
+22,Imonda,5,predicative,1,-na,,non-cumulative,suffixation,4,verbs,open class,optional?,non-core argument number,BEN/POSS,POSS human,,87-89
+22,Imonda,6,predicative,>1,-n,,non-cumulative,suffixation,4,verbs,open class,optional?,non-core argument number,BEN/POSS,POSS human,,87-89
+22,Imonda,7,predicative,2,e(h)-,=unspecified,non-cumulative,prefixation,5,verbs,open class,NC,part number,S/A,S human,,81-86
+22,Imonda,8,predicative,2,-ual,=unspecified,non-cumulative,suffixation,6,verbs,open class,NC,part number,S/A/P,+ P in halves,,81-86
+22,Imonda,9,predicative,2,-d- / -h- > -th-,=unspecified,non-cumulative,regular alternation,7,5 intransitive verbs,closed class,NC,part number,P,,,81-86
+22,Imonda,10,predicative,>2,vowel raising,=unspecified,non-cumulative,regular alternation,8,lexical (mostly transitive verbs),NC,NC,part number,S/A,,,81-86
+22,Imonda,11,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,9,"eat', 'stand', 'not like', 'make netbag', 'sleep', 'lie'",closed class,NC,part number,S/A,,,81-86
+22,Imonda,12,predicative,>2,ai-,=unspecified,non-cumulative,prefixation,10,motion verbs,NC,mutually exclusive with other motion verbs prefixes,"part number, great quantity",S,may be uncountable,,81-86
+22,Imonda,13,predicative,>2,-uo͂l,=unspecified,non-cumulative,suffixation,11,lexical (mostly transitive),NC,NC,"part number, great quantity, intensive, habitual",S/P,P may be uncountable,,81-86
+22,Imonda,14,predicative,>2,-fia,=unspecified,non-cumulative,suffixation?,12,if the verb stem is followed by -ula and for several other verbs,closed class,NC,part number,S/A,,,81-86
+22,Imonda,15,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,13,"cut', 'see'",closed class,NC,part number,P,,,81-86
+22,Imonda,16,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,14,"follow', 'hear'",closed class,NC,part number,P,,,81-86
+22,Imonda,17,predicative,>1,-abu,=unspecified,non-cumulative,suffixation,15,"a number of verbs that end in -(f)ia or are polymorphemic consisting of an adjunct plus the proverb fe 'make, do'",closed class,often has alternatives,part number,P/BEN,,,88-89
+23,Waris,1,nominal,1,-rini,,non-cumulative,suffixation,1,human nouns,closed class?,obligatory?,number,same,,= ABL,17
+23,Waris,2,nominal,2,-rini-sambla,,non-cumulative,suffixation,1,human nouns,closed class?,obligatory?,number,same,,= ABL-two,17
+23,Waris,3,predicative,>2,vowel raising,=unspecified,non-cumulative,regular alternation,2,verbs,open class,NC,part number,S/A,,,49-50
+23,Waris,4,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,3,some verbs,closed class?,NC,part number,S/A,,,49-50
+23,Waris,5,predicative,>2,a-,=unspecified,non-cumulative,prefixation,4,some verbs,NC,NC,part number,S/A,,,49-50
+23,Waris,6,predicative,2,e-,=unspecified,non-cumulative,prefixation,5,some verbs,open class?,NC,"part number, two groups",S/A,,,49-50
+23,Waris,7,predicative,2,reduplication of stem-initial vowel,=unspecified,non-cumulative,regular alternation,6,some verbs,NC,NC,part number,S/A,,,49-50
+23,Waris,8,predicative,>1,-wol,=unspecified,non-cumulative,suffixation,7,transitive verbs,open class,NC,"part number?, distr, intra",S/P,,,55-58
+23,Waris,9,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,8,some transitive verbs,closed class?,NC,part number,S/P,,,55-58
+23,Waris,10,predicative,1,wul-,,non-cumulative,prefixation,9,"verbs of motion, sitting and standing",open class?,NC,non-core argument number,things being held or carried,,,50
+23,Waris,11,predicative,2,hai-,,non-cumulative,prefixation,9,"verbs of motion, sitting and standing",open class?,NC,non-core argument number,things being held or carried,,,50
+23,Waris,12,predicative,>2,i-,,non-cumulative,prefixation,9,"verbs of motion, sitting and standing",open class?,NC,non-core argument number,things being held or carried,,,50
+23,Waris,13,predicative,1,wai-,,non-cumulative,prefixation,10,most verbs of action,open class?,NC,non-core argument number,people one is accompanying,,,50-51
+23,Waris,14,predicative,>1,won-,,non-cumulative,prefixation,10,most verbs of action,open class?,NC,non-core argument number,people one is accompanying,,,50-51
+23,Waris,15,predicative,1,-mana,,non-cumulative,suffixation,11,some verbs,open class?,NC,non-core argument number,BEN,,,58-60
+23,Waris,16,predicative,>1,-in,,non-cumulative,suffixation,11,some verbs,open class?,NC,non-core argument number,BEN,,subject number is neutralized when the plural benefactee is suffixed to some verb stems.,58-60
+23,Waris,17,predicative,1,-ho,,non-cumulative,suffixation,12,some verbs,open class?,NC,non-core argument number,R,,,58-60
+23,Waris,18,predicative,>1,-hun,,non-cumulative,suffixation,12,some verbs,open class?,NC,non-core argument number,R,,,58-60
+24,Kilmeri,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory?,person number,same,1/2/3 person,,109-111
+24,Kilmeri,2,pronominal,2,-yo,=singular,non-cumulative,suffixation,1,personal pronouns,closed class,obligatory?,person number,same,1/2/3 person,,109-111
+24,Kilmeri,3,pronominal,>2,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory?,person number,same,1/2/3 person,,109-111
+24,Kilmeri,4,predicative,2,i-/-i,=singular,non-cumulative,suffixation,2,verbs,open class,obligatory?,part number,S/A,,dual A and dual P marking may combine (but not always),328-330
+24,Kilmeri,5,predicative,2,-we,=singular,non-cumulative,suffixation,3,verbs (mostly transitive),open class,obligatory?,part number,S/P,+ in halves,dual A and dual P marking may combine (but not always),330-332
+24,Kilmeri,6,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,4,53 verbs,closed class,optional?,part number,S/P,+ uncountable,two intransitive verbs use these forms also for the dual,340-353
+24,Kilmeri,7,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,5,6 transitive verbs,closed class,optional?,part number,A,,,353-357
+24,Kilmeri,8,predicative,many,-wepi,=unspecified,non-cumulative,suffixation,6,some verbs,open class,optional?,"part number, intra?, intens?",S/P,+ uncountable,,362
+24,Kilmeri,9,predicative,many,-mapi,=unspecified,non-cumulative,suffixation,7,some verbs,NC,optional?,"intra, inter",situation,,,378-380
+24,Kilmeri,10,predicative,>1,wo-,=unspecified,non-cumulative,suffixation,8,some verbs,open class?,optional?,coll,S/A,,,381-382
+24,Kilmeri,11,predicative,>1,-ini,=singular,non-cumulative,suffixation,9,verbs,open class,obligatory?,non-core argument number,R,,,391
+25,Northeast Kiwai,1,nominal,>1,stem alternation,,non-cumulative,irregular stem alternation,1,some nouns,closed class,NC,number,same,,,20
+25,Northeast Kiwai,2,nominal,>1,-oi / -bai’oi,=unspecified,non-cumulative,suffixation,2,some nouns,NC,NC,number,same,,,20
+25,Northeast Kiwai,3,nominal,many??,reduplication,=unspecified,non-cumulative,reduplication,3,nouns,open class,NC,distr,same,,,20
+25,Northeast Kiwai,4,nominal,2,-ti ~ -oti,=unspecified,non-cumulative,suffixation,4,nouns,open class,optional,number?,same,,,23
+25,Northeast Kiwai,5,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,5,personal pronouns,closed class,obligatory,person number,same,1/2/3 person,,20-21
+25,Northeast Kiwai,6,pronominal,2,-ti,=plural,non-cumulative,suffixation,5,personal pronouns,closed class,optional?,person number,same,,,20-21
+25,Northeast Kiwai,7,pronominal,3,-bi,=plural,non-cumulative,suffixation,5,personal pronouns,closed class,optional,person number,same,,,20-21
+25,Northeast Kiwai,8,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,5,personal pronouns,closed class,obligatory,person number,same,1/2/3 person,,20-21
+25,Northeast Kiwai,9,predicative,1,-die,=unspecified,non-cumulative,suffixation,6,verbs,open class,obligatory?,part number,S/A,,,56-65
+25,Northeast Kiwai,10,predicative,2,-ido/-udo,=unspecified,non-cumulative,suffixation,6,verbs,open class,optional,part number,S/A,,,56-65
+25,Northeast Kiwai,11,predicative,3,-bii,=plural,non-cumulative,suffixation,6,verbs,open class,optional,part number,S/A,,,56-65
+25,Northeast Kiwai,12,predicative,>1,-umo,,non-cumulative,suffixation,6,verbs,open class,obligatory?,part number,S/A,,,56-65
+25,Northeast Kiwai,13,predicative,>1,i-,=unspecified,non-cumulative,prefixation,7,transitive verbs,open class,NC,part number,P,,"also used for plural beneficiary and plural middle voice (however, they are argued to be other homophonous prefixes).",56-65
+25,Northeast Kiwai,14,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,8,"‘cook’, ‘build’",closed class,obligatory?,part number,P,,,56-65
+25,Northeast Kiwai,15,predicative,many??,-uti,=unspecified,non-cumulative,suffixation,9,verbs,open class?,optional?,"distr, hab?",P,,may also cooccur with the habitual suffix,88-92
+25,Northeast Kiwai,16,predicative,many??,-tuti,=unspecified,non-cumulative,suffixation,10,verbs,open class?,optional?,"distr, continuative?",S/A/P,,,88-92
+26,Amele,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1/2/3 person,,223-225
+26,Amele,2,pronominal,2,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1/2+3 person,,223-225
+26,Amele,3,pronominal,>2,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,1/2+3 person,,223-225
+26,Amele,4,predicative,1,cumulative suffixation,,cumulative with person,suffixation,2,verbs,open class,obligatory,indexing,S/A,1/2/3 person,,153-155
+26,Amele,5,predicative,2,cumulative suffixation,,cumulative with person,suffixation,2,verbs,open class,obligatory,indexing,S/A,1/2+3 person,,153-155
+26,Amele,6,predicative,>2,cumulative suffixation,,cumulative with person,suffixation,2,verbs,open class,obligatory,indexing,S/A,1/2+3 person,,153-155
+26,Amele,7,predicative,1,cumulative suffixation,,cumulative with person,suffixation,3,transtive verbs,open class,obligatory,indexing,P,1/2/3 person,,155-157
+26,Amele,8,predicative,2,cumulative suffixation,,cumulative with person,suffixation,3,transtive verbs,open class,obligatory,indexing,P,1/2+3 person,,155-157
+26,Amele,9,predicative,>2,cumulative suffixation,,cumulative with person,suffixation,3,transtive verbs,open class,obligatory,indexing,P,1/2+3 person,,155-157
+26,Amele,10,nominal,1,cumulative suffixation,,cumulative with person,suffixation,4,inalienably possessed nouns,open class,obligatory,person number,POSS,1/2/3 person,,206-221
+26,Amele,11,nominal,2,cumulative suffixation,,cumulative with person,suffixation,4,inalienably possessed nouns,open class,obligatory,person number,POSS,1/2+3 person,,206-221
+26,Amele,12,nominal,>2,cumulative suffixation,,cumulative with person,suffixation,4,inalienably possessed nouns,open class,obligatory,person number,POSS,1/2+3 person,,206-221
+26,Amele,13,nominal,>1,-el/-il/-ul,=singular,non-cumulative,suffixation,5,possessed kinship terms,closed class,obligatory?,number,same,,,206-221
+26,Amele,14,attributive,1,oso,,non-cumulative,irregular stem alternation,6,specific determiner,closed class,obligatory?,singular specific determiner,head NP,,,227-231
+26,Amele,15,attributive,>1,leih,,non-cumulative,irregular stem alternation,6,specific determiner,closed class,obligatory?,plural specific determiner,head NP,,,227-231
+26,Amele,16,pronominal,>1,a-,,non-cumulative,prefixation?,7,some interrogative pronouns,closed class,obligatory?,number,same,,,232-236
+26,Amele,17,nominal,many??,reduplication,=unspecified,non-cumulative,reduplication,8,nouns,open class,optional,"lixically dependent meanings (plurality, similarity, emphasis, reciprocity and distributive)",same,,,418
+26,Amele,18,predicative,2,-al,=unspecified,non-cumulative,suffixation,9,verbs,open class,optional?,"distr, intra ? + excl",NC,,homonymous with second/third person dual and plural,128
+26,Amele,19,predicative,>2,-ad,=unspecified,non-cumulative,suffixation,9,verbs,open class,optional?,"distr, intra ?",NC,,homonymous with second/third person dual and plural,128
+26,Amele,20,nominal,>1,=nana,=unspecified,non-cumulative,postposition,10,nouns,open class,optional?,distr locative,same,,,244
+26,Amele,21,predicative,many,rightword reduplication,=unspecified,non-cumulative,regular alternation,11,verbs,open class,optional,"intra, inter ?",situation,,,404-408
+26,Amele,22,predicative,many,stem alternation,,non-cumulative,irregular stem alternation,12,verbs,open class,optional,"intra, inter ?",situation,,,404-408
+27,Suki,1,pronominal,1,cumulative stem alternation,,cumulative with person and case,irregular stem alternation,1,personal pronouns,closed class,obligatory?,person number,same,,,93-94
+27,Suki,2,pronominal,>1,cumulative stem alternation,,cumulative with person and case,irregular stem alternation,1,personal pronouns,closed class,obligatory?,person number,same,,,93-94
+27,Suki,3,nominal,>1,reduplication,,non-cumulative,reduplication,2,several human nouns,closed class,obligatory,number,same,,,62
+27,Suki,4,attributive,>1,stem alternation,,non-cumulative,irregular stem alternation,3,8 adjectives,closed class,NC,number,head NP,,,72
+27,Suki,5,nominal,1,=ti,,non-cumulative,postposition,4,"demonstratives, interrogatives, adjectives, nouns, and noun phrases",open class,NC,singular specificity marker,head NP,,,124-128
+27,Suki,6,nominal,>1,=diti / =der,,non-cumulative,postposition,4,"demonstratives, interrogatives, adjectives, nouns, and noun phrases",open class,NC,plural specificity marker,head NP,,,124-128
+27,Suki,7,nominal,>1,=yege,=unspecified,non-cumulative,postposition,5,"more frequent on non-human, modified, and non-verbal predicate NPs",open class,optional,number?,same,,,133
+27,Suki,8,predicative,1,cumulative suffixation,,cumulative with person,suffixation,6,transitive verbs,open class,obligatory?,indexing,P,1/2+3,,198
+27,Suki,9,predicative,>1,cumulative suffixation,,cumulative with person,suffixation,6,transitive verbs,open class,obligatory?,indexing,P,1/2+3,,198
+27,Suki,10,predicative,1,cumulative suffixation,,cumulative with person,suffixation,7,verbs,open class,obligatory?,indexing,IO,1/2+3,,198
+27,Suki,11,predicative,>1,cumulative suffixation,,cumulative with person,suffixation,7,verbs,open class,obligatory?,indexing,IO,1/2+3,,198
+27,Suki,12,predicative,>1,-im/-um,=unspecified,non-cumulative,suffixation,8,8 intransitive verbs,closed class,optional?,part number,S/P,,,206-207
+27,Suki,13,predicative,>1,repetition of the right-most oral stop,=unspecified,non-cumulative,regular alternation,9,some verbs,closed class,obligatory?,"part number, intra, inter",S/P,,"The posture verbs (3 verbs) apply the same strategy to form “iterative” roots (intra- or inter-occasional plurality), however, some of them also have alternation for the number of the subject, so that one verb may have four stems.",207-210
+27,Suki,14,predicative,>1,"alternations (reduplication of more than one stop alone, truncation, and replacement of r by t)",=unspecified,non-cumulative,irregular stem alternation,10,10 verbs,closed class,obligatory?,part number,S/P,,,209
+27,Suki,15,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,11,"‘come’, ‘go’, ‘move around’",closed class,obligatory?,part number,S,,,209
+27,Suki,16,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,11,"‘come’, ‘go’, ‘move around’",closed class,obligatory?,part number,S,,,209
+27,Suki,17,predicative,1,cumulative suffixation,,cumulative with person,suffixation,12,verbs,open class,obligatory?,indexing,S/A,,,210-214
+27,Suki,18,predicative,>1,cumulative suffixation,,cumulative with person,suffixation,12,verbs,open class,obligatory?,indexing,S/A,,,210-214
+27,Suki,19,predicative,2,-dr,=plural/unspecified,non-cumulative,suffixation,12,verbs,open class,optional,part number,S/A,,,210-214
+27,Suki,20,predicative,>1,-se,=unspecified,non-cumulative,suffixation,13,middle verbs,open class,NC,part number,S,,,210-214
+27,Suki,21,predicative,>1,-tat,=unspecified,non-cumulative,suffixation,14,intransitive verbs,open class,NC,part number,S,inanimate,,210-214
+28,Culina,1,nominal,>1,-deni,=unspecified,non-cumulative,suffixation?,1,human nouns and personal pronouns,open class?,NC,"number, associative plural",same,,,"52, 173"
+28,Culina,2,predicative,>1,-mana,=unspecified,non-cumulative,suffixation,2,some verbs,open class,optional?,part number,S/A,,,99-108
+28,Culina,3,predicative,>1,-bakhi,=unspecified,non-cumulative,suffixation,3,some verbs,open class,NC,part number,P/IO/S?,,,99-108
+28,Culina,4,predicative,>2,ta-,=unspecified,non-cumulative,suffixation,4,some dynamic transitive verbs,open class,NC,part number,P,,,99-108
+28,Culina,5,predicative,2,reduplication of the final syllable of the verb stem or triplication of the stem vowel,=unspecified,non-cumulative,regular alternation,5,some verbs,open class,NC,part number,S/P,,,99-108
+28,Culina,6,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,6,"‘run’, ‘move’, ‘lie on the ground’, ‘fall’, ‘be born’, ‘stand’, ‘sleep’, ‘sit on the ground’, ‘die’, ‘hang up’, ‘kill’, ‘put’, ‘take’",closed class,optional?,part number,S/P,,"only some have a dual form, the others use either the singular or the plural stem or both for dual as well",133-136
+28,Culina,7,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,6,"‘run’, ‘move’, ‘lie on the ground’, ‘fall’, ‘be born’, ‘stand’, ‘sleep’, ‘sit on the ground’, ‘die’, ‘hang up’, ‘kill’, ‘put’, ‘take’",closed class,NC,part number,S/P,,,133-136
+28,Culina,8,predicative,>2,-khiri,=unspecified,non-cumulative,suffixation,7,stative verbs with an auxiliary,open class,NC,part number,S,"in the second person plural, the plural number is also marked by the prefix ke- on the auxiliary)",,143-144; 150-151
+29,Madi,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,"1/2/3 person, 1 incl/excl, 3 animante/inanimate ","free phonological forms (apart from first and second person singular object), but they are obligatory used even if the argument is expressed by an NP",76-77
+29,Madi,2,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,"1/2/3 person, 1 incl/excl, 3 animante/inanimate ","free phonological forms (apart from first and second person singular object), but they are obligatory used even if the argument is expressed by an NP",76-77
+29,Madi,3,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,2,about 10 stance verbs,closed class,obligatory?,part number,S/P,,there is some neutralization between semantically related verbs in dual and plural [3+],543-546
+29,Madi,4,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,2,about 10 stance verbs,closed class,obligatory?,part number,S/P,,,543-546
+29,Madi,5,predicative,1 or >2,stem alternation,,non-cumulative,irregular stem alternation,3,"‘be hanging from a hook, lie in a hammock’",closed class,obligatory?,part number,S/P,,,543-546
+29,Madi,6,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,3,"‘be hanging from a hook, lie in a hammock’",closed class,obligatory?,part number,S/P,,,543-546
+29,Madi,7,predicative,1 or 2,stem alternation,,non-cumulative,irregular stem alternation,4,9 verbs,closed class,obligatory?,part number,S/P,,"for dual reference either the singular or the plural root is used, plus dual suffix -ikima",543-546
+29,Madi,8,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,4,9 verbs,closed class,obligatory?,part number,S/P,,"for dual reference either the singular or the plural root is used, plus dual suffix -ikima",543-546
+29,Madi,9,predicative,2,-ikima,=singular/dual/plural,non-cumulative,suffixation,5,verbs,open class,NC,"part number, pair?, distr?",S/P/other?,,,152-155
+29,Madi,10,predicative,2,ka-,=unspecified,non-cumulative,prefixation,6,verbs,open class?,NC,"part number, two groups, applicative...",S/P,,,258-265
+29,Madi,11,predicative,1,ka-,=unspecified,non-cumulative,prefixation,7,small class of verbs,closed class,NC,"part number, applicative...",S/P,,,258-265
+29,Madi,12,predicative,>1,ka-,=unspecified,non-cumulative,prefixation,8,small class of verbs,closed class,NC,"part number, applicative...",S/P,,,258-265
+29,Madi,13,predicative,>1,-rawa,=unspecified,cumulative with gender,suffixation,9,verbs,open class,NC,part number?,S/A/P/other?,feminine,,180-189
+30,Xerénte,1,nominal,>1,-nõri͂,=unspecified,non-cumulative,suffixation,1,nouns and pronouns,open class,optional,number,same,,,89-93; 117
+30,Xerénte,2,predicative,2,stem alternation,,non-cumulative,irregular stem alternation,2,some verbs,closed class?,obligatory?,part number,S/P,,,237-242
+30,Xerénte,3,predicative,>2,stem alternation,,non-cumulative,irregular stem alternation,2,some verbs,closed class?,obligatory?,part number,S/P,,,237-242
+31,Shipibo-Conibo,1,pronominal,1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,,,185
+31,Shipibo-Conibo,2,pronominal,>1,cumulative stem alternation,,cumulative with person,irregular stem alternation,1,personal pronouns,closed class,obligatory,person number,same,,,185
+31,Shipibo-Conibo,3,nominal,>1,-bo,=unspecified,non-cumulative,suffixation,2,"NP (countable nouns, pronouns, ethnic group names)",open class,optional,number ?,same,,,203-206; 219-221
+31,Shipibo-Conibo,4,predicative,>1,-kan,=unspecified,non-cumulative,suffixation,3,verbs,open class,optional,part number,S/A,,,521-522
+31,Shipibo-Conibo,5,predicative,>1,stem alternation,,non-cumulative,irregular stem alternation,4,"come', 'go'",closed class,obligatory,"part number, causative",S,,,594-600
+31,Shipibo-Conibo,6,predicative,2,-bekon,=unspecified/plural,non-cumulative,suffixation,5,some verbs,open class,optional,"part number, comit?",S ?,,"can combine with plural suffix, but attaches to the singular stem of 'go' and 'come'; can combine with reciprocals",281-282; 267
+31,Shipibo-Conibo,7,any,many??,reduplication,=unspecified,non-cumulative,reduplication,6,"verbs, adjectives, adjuncts, nouns",open class,optional?,"distr, continuity?, intensification?",S/P ?,,,150-154
+31,Shipibo-Conibo,8,predicative,many??,-pake,=unspecified,non-cumulative,suffixation,7,verbs,open class,optional,distr,S/P ?,,,157; 268
